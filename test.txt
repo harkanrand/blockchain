@@ -1,0 +1,6 @@
+Run node src/keygen.js
+
+Example:
+Public key: 041e6c26233915a4a232a6e7ef8626ac1a1862833d61790913003b841ba24fc21908df35e4c801c24651fb8fcc7df0b8542aceb45f9c1c049eb49bd848e60a9299
+
+Private key: 322fcc2eab2f350ae2c78e96cc83fcaac4cc261ab9f204ca2cadba729da4a824
